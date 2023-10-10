@@ -23,6 +23,15 @@ Pricing in EBS?
 •	Pay only for what you use
 •	No minimum fees or  no  upfront commitment.
 
+Different Deployment Types in EBS?
+1. Single Instance Deployment
+2. High Availability Deployment
+
+In EBS we can swap the URL's of different environments (e.g. Blue-Green Environment).
+
+
+
+
 
 
 
